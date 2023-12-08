@@ -1,4 +1,4 @@
-# SchoolManagementSystem
+# School Management System
  C# .NET ve SQL Server kullanılarak oluşturduğum Okul Yönetim Sistemi projesi. 🪭
 
 
